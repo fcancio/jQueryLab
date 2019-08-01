@@ -20,11 +20,13 @@ ul {
     display: flex;
     flex-direction: column;
     align-content: flex-start;
+    padding-bottom: 10px;
+    width: 490px;
 }
 
 li {
     align-items: flex-start;
-    padding: 15px 0px;
+    padding-bottom: 15px;
     list-style-type: none;
     width: 490px;
 }
